@@ -40,11 +40,11 @@ Alice
 
 ## Concepts
 
-Command-line arguments
-Structs
-Arrays
-String comparison with strcmp
-Loops
-Input validation
-Vote counting algorithms
-Functions and modular programming
+- Command-line arguments
+- Structs
+- Arrays
+- String comparison with strcmp
+- Loops
+- Input validation
+- Vote counting algorithms
+- Functions and modular programming
